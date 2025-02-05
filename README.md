@@ -7,7 +7,7 @@ Initially, the PDB structure of the stapled peptide must be obtained. This struc
 ### 2-2.Data processing
 In order to standardize the input data, it is necessary to run "data process.py" file.
 ### 2-3.Activity Prediction
-Run the “predict.py” file to output and summarize the predictions. Prediction results can be viewed in the "result" folder.
+Download the “trained model.zip” file in the “release” module and extract it to the "ML" folder. Run the “predict.py” file to output and summarize the predictions. Prediction results can be viewed in the "result" folder.
 ## 3.Contect us
 You can cntect us with the e-mail of "zhengh18@hotmail.com"  
 Dr. Heng Zheng  
